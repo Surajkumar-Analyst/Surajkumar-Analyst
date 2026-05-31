@@ -1,57 +1,52 @@
-# 👋 Hi, I'm Suraj Kumar
+# 📊 Hey there, I'm Suraj Kumar!
+<h1 align="center">📊 Suraj Kumar</h1>
+<h3 align="center">Data Analyst | Power BI Developer | Business Intelligence Enthusiast</h3>
+Welcome to my corner of GitHub 👋
 
-## 📊 Aspiring Data Analyst | Power BI Enthusiast | Problem Solver
-
-Welcome to my GitHub profile!
-
-I'm a BCA student passionate about transforming raw data into meaningful insights. I enjoy building interactive dashboards, analyzing business problems, and creating data-driven solutions that help organizations make better decisions.
+I'm passionate about turning raw data into meaningful insights and building dashboards that help businesses make smarter decisions.
 
 Here you'll find:
 
-📈 Power BI Dashboard Projects
+* 📈 Power BI dashboards and analytics projects
+* 🗄️ SQL solutions and data exploration
+* 📊 Business Intelligence and data storytelling
+* 🧠 Problem-solving through data
+* 🚀 Continuous learning and experimentation
 
-📊 Data Analytics & Visualization Projects
+I enjoy combining analytical thinking with creativity to uncover patterns, answer business questions, and transform complex data into clear visual stories.
 
-🧮 SQL, Excel & DAX Practice
+Whether you're here to explore projects, learn something new, or connect with a fellow data enthusiast — you're in the right place! ✨
 
-💡 Business Insights & Case Studies
+**Let's learn, build, and grow together — one dataset at a time.** 📊
 
-🚀 My journey toward becoming a Data Analyst
+---
 
-I believe that data is more than numbers—it tells stories, uncovers opportunities, and drives smarter decisions.
+## 🌐 Connect With Me
 
-### 🌱 Currently Learning
-
-* Advanced Power BI
-* SQL for Analytics
-* Data Modeling
-* Business Analysis
-* Statistics for Data Science
-
-### 💻 Tech Stack
-
-🔹 Power BI
-
-🔹 SQL
-
-🔹 Microsoft Excel
-
-🔹 DAX
-
-🔹 Power Query
-
-🔹 Python (Basics)
-
-🔹 Data Visualization
-
-🔹 Business Intelligence
-
-### 🌐 Connect With Me
-
-💼 LinkedIn: [www.linkedin.com/in/surajkumar-analyst](https://www.linkedin.com/in/surajkumar-analystt/)
+💼 LinkedIn: [www.linkedin.com/in/surajkumar-analyst](http://www.linkedin.com/in/surajkumar-analyst)
 
 📧 Email: [suraj.yadav.417330@gmail.com](mailto:suraj.yadav.417330@gmail.com)
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to explore my repositories, share feedback, and connect with me as I continue growing in the field of Data Analytics.
+## 💻 Tech Stack
+
+📊 Power BI
+
+🧮 DAX
+
+🗄️ SQL
+
+📈 Advanced Excel
+
+🔄 Power Query
+
+🐍 Python
+
+📉 Data Visualization
+
+🏢 Business Intelligence
+
+🧠 Analytical Thinking
+
+🎨 Dashboard Design
