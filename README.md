@@ -1,4 +1,3 @@
-# 📊 Hey there, I'm Suraj Kumar!
 <h1 align="center">📊 Suraj Kumar</h1>
 <h3 align="center">Data Analyst | Power BI Developer | Business Intelligence Enthusiast</h3>
 Welcome to my corner of GitHub 👋
@@ -21,32 +20,32 @@ Whether you're here to explore projects, learn something new, or connect with a 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-💼 LinkedIn: [www.linkedin.com/in/surajkumar-analyst](http://www.linkedin.com/in/surajkumar-analyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Kumar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/surajkumar-analyst)
 
-📧 Email: [suraj.yadav.417330@gmail.com](mailto:suraj.yadav.417330@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-suraj.yadav.417330%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:suraj.yadav.417330@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-📊 Power BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-🧮 DAX
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-🗄️ SQL
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Cloud\_Analytics](https://img.shields.io/badge/Cloud_Analytics-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
-📈 Advanced Excel
+![Artificial\_Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge\&logo=openai\&logoColor=white)
+![Business\_Intelligence](https://img.shields.io/badge/Business_Intelligence-Analytics-success?style=for-the-badge)
+![Data\_Analytics](https://img.shields.io/badge/Data_Analytics-Insights-blueviolet?style=for-the-badge)
+![Data\_Visualization](https://img.shields.io/badge/Data_Visualization-Storytelling-orange?style=for-the-badge)
 
-🔄 Power Query
 
-🐍 Python
-
-📉 Data Visualization
-
-🏢 Business Intelligence
-
-🧠 Analytical Thinking
-
-🎨 Dashboard Design
