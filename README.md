@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dark.svg" width="100%">
+</p>
+
 # 📊 Hey there, I'm Suraj Kumar!
 
 Welcome to my corner of GitHub — where data tells stories and numbers come alive! 🚀
